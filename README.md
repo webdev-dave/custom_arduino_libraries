@@ -1,4 +1,4 @@
-# Custom Arduino Libraries
+# My Custom Arduino Libraries
 
 Personal collection of custom Arduino libraries. Only folders prefixed with `Custom_` (case-insensitive) are tracked.
 
@@ -7,7 +7,7 @@ Personal collection of custom Arduino libraries. Only folders prefixed with `Cus
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/webdev-dave/my_custom_arduino_libraries.git
 ```
 
 2. **Find your Arduino libraries folder:**
