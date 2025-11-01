@@ -1,0 +1,22 @@
+# Ignore everything at the root level
+/*
+
+# But don't ignore folders starting with Custom_ (case variations)
+!Custom_*/
+!/Custom_*/
+!custom_*/
+!/custom_*/
+!CUSTOM_*/
+!/CUSTOM_*/
+
+# Un-ignore all contents within Custom_* folders
+!Custom_*/**
+!custom_*/**
+!CUSTOM_*/**
+
+# Don't ignore .gitignore itself
+!.gitignore
+
+# Optional: Don't ignore README if you want to add one
+!README.md
+
